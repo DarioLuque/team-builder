@@ -1,0 +1,13 @@
+.btn-submit {
+  margin-left: 5%;
+}
+
+.input-tab {
+  margin: 2%;
+}
+
+.input-area {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
